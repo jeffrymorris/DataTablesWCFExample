@@ -1,0 +1,31 @@
+﻿.data-table-container { }
+.data-table-container tbody { height:60px; }
+.dataTables_empty { }
+.dataTables_wrapper { font-size: 1em;}
+.dataTables_filter { float:left; }
+.dataTables_length { float:right; }
+.dataTables_paginate { float:right; }
+.dataTables_info { float:left; }
+.dataTables_processing { position:relative; }
+.fg-toolbar { padding: 5px;}
+.fg-toolbar input { border: 1px; width: 200px; }
+.fg-toolbar select { border: 1px; }
+.fg-button { padding: 3px; cursor:pointer; }
+.fg-buttonset { }
+.fg-buttonset-multi paging_full_numbers { }
+
+
+.center-column {text-align:center;}
+.row-hover { font-weight: normal !important; }
+.grid-cell { padding: 3px; overflow:hidden; max-width:130px; margin-right:10px; font-weight:normal;}
+    
+.hide-column {display: none;}
+.processing-div { text-align:center; padding:5px; border: solid 1px; position:absolute;top:55px;left:42%;}
+.manage-button { margin:3px; }
+
+.odd { font-weight: normal !important;}
+.even { }
+
+.css_right { float:right; }
+.css_left {	float: left; }
+.edit-column { min-width:20px; }

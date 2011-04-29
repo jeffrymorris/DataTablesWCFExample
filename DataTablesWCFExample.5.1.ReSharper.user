@@ -1,0 +1,129 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:Web.config" caret="7926" fromTop="34" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:Content/f:datatable.css" caret="1071" fromTop="31" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:DataUtil.cs" caret="1346" fromTop="32" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc" caret="0" fromTop="0" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="7468" fromTop="29" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:ArticleHeader.cs" caret="0" fromTop="0" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:Default.aspx" caret="3027" fromTop="22" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc.cs" caret="2220" fromTop="40" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="2549" fromTop="29" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="2795" fromTop="37" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="3041" fromTop="33" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="3287" fromTop="32" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="3533" fromTop="31" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="3779" fromTop="30" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="4025" fromTop="38" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="4271" fromTop="34" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="4517" fromTop="27" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="4763" fromTop="35" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="5008" fromTop="31" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="5255" fromTop="35" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="5501" fromTop="34" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="5747" fromTop="27" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="5993" fromTop="35" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="6239" fromTop="31" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="6485" fromTop="30" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="6731" fromTop="29" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="6977" fromTop="28" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="7223" fromTop="30" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:data.xml" caret="7468" fromTop="29" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:Default.aspx" caret="3027" fromTop="35" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:Default.aspx" caret="2051" fromTop="10" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:Default.aspx" caret="2339" fromTop="11" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/f:Default.aspx" caret="3027" fromTop="22" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc.cs" caret="3101" fromTop="50" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc.cs" caret="1371" fromTop="15" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc.cs" caret="3036" fromTop="38" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc.cs" caret="1489" fromTop="28" />
+      <File id="0027B480-4CF3-4296-A9DE-5209B0EDC374/d:webservices/f:ArticleListService.svc.cs" caret="2220" fromTop="40" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="null" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="string" priority="2" />
+      <Item value="LinkedList" priority="0" />
+      <Item value="var" priority="4" />
+      <Item value="new" priority="2" />
+      <Item value="List" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="FooUtil`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="Foo" priority="0" />
+      <Item value="ArticleId" priority="1" />
+      <Item value="PromoImageId" priority="1" />
+      <Item value="PublicationDate" priority="1" />
+      <Item value="Slug" priority="0" />
+      <Item value="StatusId" priority="1" />
+      <Item value="Title" priority="1" />
+      <Item value="XDocument`0" priority="0" />
+      <Item value="xml" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="ArticleHeader`0" priority="0" />
+      <Item value="x" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="results" priority="0" />
+      <Item value="data" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="iSortCol_0" priority="0" />
+      <Item value="iDisplayStart" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataTablesWCFExample.FooUtil">
+      <Item value="GetData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="Add`0" priority="0" />
+      <Item value="Descendants`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XDocument">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Element`0" priority="1" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

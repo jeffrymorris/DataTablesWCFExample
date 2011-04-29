@@ -1,0 +1,5 @@
+D:\Projects\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.dll
+D:\Projects\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.pdb
+D:\Projects\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.dll
+D:\Projects\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.pdb
