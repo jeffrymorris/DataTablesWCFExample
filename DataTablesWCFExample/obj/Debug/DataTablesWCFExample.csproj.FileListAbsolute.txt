@@ -3,3 +3,8 @@ D:\Projects\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.p
 D:\Projects\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.dll
 D:\Projects\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.pdb
+D:\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.dll
+D:\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.pdb
+D:\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\ResolveAssemblyReference.cache
+D:\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.dll
+D:\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.pdb

@@ -65,6 +65,7 @@
     <Content Include="Content\datatable.css" />
     <Content Include="data.xml" />
     <Content Include="Default.aspx" />
+    <Content Include="Scripts\jquery.js" />
     <Content Include="Scripts\jquery.json-2.2.min.js" />
     <Content Include="Scripts\ui\css\redmond\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Scripts\ui\css\redmond\images\ui-bg_flat_55_fbec88_40x100.png" />
@@ -84,7 +85,6 @@
     <Content Include="Scripts\ui\css\redmond\jquery-ui-1.7.2.custom.css" />
     <Content Include="Scripts\ui\jquery-ui-1.7.2.custom.min.js" />
     <Content Include="webservices\ArticleListService.svc" />
-    <Content Include="Scripts\jquery-1.4.4.min.js" />
     <Content Include="Scripts\jquery.dataTables.js" />
     <Content Include="Web.config" />
   </ItemGroup>

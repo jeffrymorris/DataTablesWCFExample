@@ -13,7 +13,7 @@
     <title></title>
     <script>
         $(document).ready(function() {
-        var oArticleListTable;
+            var oArticleListTable;
             var $gridId = "articlelistview-grid";
             $("#<%=divArticleListGrid.ClientID %>").html('<table cellpadding="0" cellspacing="0" border="0" class="data-table-container w-fill" id="' + $gridId + '"></table>');
             oArticleListTable = $("#" + $gridId).dataTable({
@@ -24,18 +24,17 @@
                 "oLanguage": { "sProcessing": "<div class='processing-div ui-state-focus w120 ui-corner-all'><div style='float:left;'><img src='/content/img/icons/loading_32x32.gif'></div><div style='float:left;margin:10px 5px;'>Loading...</div><div class='cleardiv'></div></div>" },
                 "sAjaxSource": "/webservices/ArticleListService.svc/GetArticles",
                 "sPaginationType": "full_numbers",
-                "fnInitComplete": ArticleListTable_Init,
+                //"fnInitComplete": ArticleListTable_Init,
                 "asStripClasses": ['even', 'odd ui-state-default'],
                 "aaSorting": [[1, "asc"]],
                 "aoColumns": [
-                //{ "sTitle": "Id", "sClass": "id-column hide-column" },
-                        {"sTitle": "PromoImageId", "sClass": "grid-cell" },
+                        { "sTitle": "PromoImageId", "sClass": "id-column grid-cell" },
                         { "sTitle": "ArticleId", "sClass": "grid-cell" },
 			            { "sTitle": "Slug", "sClass": "grid-cell" },
 			            { "sTitle": "Title", "sClass": "grid-cell" },
 			            { "sTitle": "StatusId", "sClass": "grid-cell" },
 			            { "sTitle": "PublicationDate", "sClass": "grid-cell" }
-		            ],
+		             ],
                 "fnServerData": function(sSource, aoData, fnCallback) {
                     aoData.push({ "name": "websiteId", "value": "70005" });
                     aoData.push({ "name": "categoryId", "value": null });
@@ -52,15 +51,15 @@
                     });
                 }
             });
-        function ArticleListTable_Init(oSettings) {
-            $(nNodes).each(function() {
-                $(this).hover(function() {
-                    $(this).addClass("ui-state-active row-hover");
-                }, function() {
-                    $(this).removeClass("ui-state-active row-hover");
-                })
-            });
-        }
+            function ArticleListTable_Init(oSettings) {
+                $(nNodes).each(function() {
+                    $(this).hover(function() {
+                        $(this).addClass("ui-state-active row-hover");
+                    }, function() {
+                        $(this).removeClass("ui-state-active row-hover");
+                    })
+                });
+            }
         });
 
     </script>
